@@ -1,0 +1,9 @@
+datasets/
+modanet_dataset/
+
+#code
+.vscode/
+
+
+#python
+_pycache_
